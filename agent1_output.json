@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "name": "Chicken Breast",
+      "quantity": "2 lbs"
+    },
+    {
+      "name": "Brown Rice",
+      "quantity": "2 lbs"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Spinach",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Carrots",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Eggs",
+      "quantity": "1 dozen"
+    },
+    {
+      "name": "Greek Yogurt (non-fat)",
+      "quantity": "32 oz"
+    },
+    {
+      "name": "Almonds",
+      "quantity": "8 oz"
+    },
+    {
+      "name": "Bananas",
+      "quantity": "6 pieces"
+    },
+    {
+      "name": "Apples",
+      "quantity": "4 pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": "16 oz"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "quantity": "1 loaf"
+    },
+    {
+      "name": "Canned Tuna (in water)",
+      "quantity": "3 cans"
+    },
+    {
+      "name": "Quinoa",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Mixed Berries (frozen)",
+      "quantity": "1 lb"
+    }
+  ],
+  "budget": 98.5
+}

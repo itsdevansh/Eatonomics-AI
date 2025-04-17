@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "name": "Chicken breast",
+      "quantity": "2 lbs"
+    },
+    {
+      "name": "Brown rice",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Carrots",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Bananas",
+      "quantity": "6 pieces"
+    },
+    {
+      "name": "Apples",
+      "quantity": "5 pieces"
+    },
+    {
+      "name": "Almond milk",
+      "quantity": "1 gallon"
+    },
+    {
+      "name": "Whole grain bread",
+      "quantity": "1 loaf"
+    },
+    {
+      "name": "Eggs",
+      "quantity": "1 dozen"
+    },
+    {
+      "name": "Greek yogurt",
+      "quantity": "2 lbs"
+    },
+    {
+      "name": "Oats",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Peanut butter",
+      "quantity": "1 jar"
+    },
+    {
+      "name": "Canned tuna",
+      "quantity": "4 cans"
+    },
+    {
+      "name": "Frozen berries",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Spinach",
+      "quantity": "1 lb"
+    },
+    {
+      "name": "Tomatoes",
+      "quantity": "4 pieces"
+    },
+    {
+      "name": "Onions",
+      "quantity": "2 pieces"
+    },
+    {
+      "name": "Garlic",
+      "quantity": "1 bulb"
+    },
+    {
+      "name": "Olive oil",
+      "quantity": "500 ml"
+    },
+    {
+      "name": "Black beans",
+      "quantity": "2 cans"
+    }
+  ],
+  "budget": 100.0
+}

@@ -1,0 +1,229 @@
+{
+  "recipes": [
+    {
+      "meal_name": "Grilled Chicken with Quinoa and Broccoli",
+      "ingredients": [
+        {
+          "item": "Chicken Breast",
+          "quantity": "1 lb"
+        },
+        {
+          "item": "Quinoa",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Broccoli",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Olive Oil",
+          "quantity": "1 tablespoon"
+        }
+      ],
+      "instructions": [
+        "Preheat the grill to medium-high heat.",
+        "Season the chicken breast with olive oil, salt, and pepper.",
+        "Grill the chicken for 6-7 minutes on each side until fully cooked.",
+        "Cook quinoa according to package instructions.",
+        "Steam broccoli until tender.",
+        "Serve grilled chicken over quinoa with steamed broccoli on the side."
+      ],
+      "nutritional_info": {
+        "protein": "50 grams",
+        "carbs": "45 grams",
+        "fat": "15 grams",
+        "calories": "450 kcal"
+      }
+    },
+    {
+      "meal_name": "Tuna Salad with Spinach and Carrots",
+      "ingredients": [
+        {
+          "item": "Canned Tuna (in water)",
+          "quantity": "1 can"
+        },
+        {
+          "item": "Spinach",
+          "quantity": "2 cups"
+        },
+        {
+          "item": "Carrots",
+          "quantity": "1 cup, shredded"
+        },
+        {
+          "item": "Olive Oil",
+          "quantity": "1 tablespoon"
+        }
+      ],
+      "instructions": [
+        "In a bowl, combine canned tuna, shredded carrots, and spinach.",
+        "Drizzle with olive oil and mix well.",
+        "Serve chilled or at room temperature."
+      ],
+      "nutritional_info": {
+        "protein": "30 grams",
+        "carbs": "10 grams",
+        "fat": "12 grams",
+        "calories": "300 kcal"
+      }
+    },
+    {
+      "meal_name": "Egg and Spinach Breakfast Wrap",
+      "ingredients": [
+        {
+          "item": "Eggs",
+          "quantity": "2"
+        },
+        {
+          "item": "Spinach",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Whole Wheat Bread",
+          "quantity": "1 slice"
+        },
+        {
+          "item": "Olive Oil",
+          "quantity": "1 teaspoon"
+        }
+      ],
+      "instructions": [
+        "Heat olive oil in a pan over medium heat.",
+        "Scramble the eggs in the pan until cooked through.",
+        "Add spinach and cook until wilted.",
+        "Serve the egg and spinach mixture on a slice of whole wheat bread."
+      ],
+      "nutritional_info": {
+        "protein": "20 grams",
+        "carbs": "15 grams",
+        "fat": "10 grams",
+        "calories": "250 kcal"
+      }
+    },
+    {
+      "meal_name": "Greek Yogurt with Mixed Berries and Almonds",
+      "ingredients": [
+        {
+          "item": "Greek Yogurt (non-fat)",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Mixed Berries (frozen)",
+          "quantity": "1/2 cup"
+        },
+        {
+          "item": "Almonds",
+          "quantity": "1 oz"
+        }
+      ],
+      "instructions": [
+        "In a bowl, add Greek yogurt.",
+        "Top with mixed berries and sprinkle with almonds.",
+        "Serve immediately."
+      ],
+      "nutritional_info": {
+        "protein": "25 grams",
+        "carbs": "30 grams",
+        "fat": "8 grams",
+        "calories": "300 kcal"
+      }
+    },
+    {
+      "meal_name": "Banana and Almond Smoothie",
+      "ingredients": [
+        {
+          "item": "Bananas",
+          "quantity": "1"
+        },
+        {
+          "item": "Greek Yogurt (non-fat)",
+          "quantity": "1/2 cup"
+        },
+        {
+          "item": "Almonds",
+          "quantity": "1 oz"
+        },
+        {
+          "item": "Olive Oil",
+          "quantity": "1 teaspoon"
+        }
+      ],
+      "instructions": [
+        "In a blender, combine banana, Greek yogurt, almonds, and olive oil.",
+        "Blend until smooth.",
+        "Serve chilled."
+      ],
+      "nutritional_info": {
+        "protein": "15 grams",
+        "carbs": "40 grams",
+        "fat": "10 grams",
+        "calories": "350 kcal"
+      }
+    },
+    {
+      "meal_name": "Brown Rice Bowl with Chicken and Veggies",
+      "ingredients": [
+        {
+          "item": "Brown Rice",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Chicken Breast",
+          "quantity": "1 lb"
+        },
+        {
+          "item": "Carrots",
+          "quantity": "1 cup, diced"
+        },
+        {
+          "item": "Broccoli",
+          "quantity": "1 cup, chopped"
+        },
+        {
+          "item": "Olive Oil",
+          "quantity": "1 tablespoon"
+        }
+      ],
+      "instructions": [
+        "Cook brown rice according to package instructions.",
+        "In a pan, heat olive oil and saut\u00e9 diced carrots and broccoli until tender.",
+        "Add cooked chicken breast, diced, and mix well.",
+        "Serve over brown rice."
+      ],
+      "nutritional_info": {
+        "protein": "45 grams",
+        "carbs": "60 grams",
+        "fat": "15 grams",
+        "calories": "550 kcal"
+      }
+    },
+    {
+      "meal_name": "Apple and Greek Yogurt Parfait",
+      "ingredients": [
+        {
+          "item": "Apples",
+          "quantity": "1, diced"
+        },
+        {
+          "item": "Greek Yogurt (non-fat)",
+          "quantity": "1 cup"
+        },
+        {
+          "item": "Almonds",
+          "quantity": "1 oz"
+        }
+      ],
+      "instructions": [
+        "In a glass, layer Greek yogurt, diced apples, and almonds.",
+        "Repeat layers until all ingredients are used.",
+        "Serve immediately."
+      ],
+      "nutritional_info": {
+        "protein": "20 grams",
+        "carbs": "35 grams",
+        "fat": "10 grams",
+        "calories": "350 kcal"
+      }
+    }
+  ]
+}

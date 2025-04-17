@@ -1,0 +1,169 @@
+{
+    "ingredients": [
+        {
+            "title": "Free From Chicken Breast, Boneless, Skinless",
+            "subtitle": "President's Choice",
+            "prices": "$12.66",
+            "unit_size": "$20.92/1kg $9.49/1lb",
+            "unit_price": "$0.61 / each",
+            "numeric_unit_price": 0.61,
+            "name": "Chicken Breast",
+            "price": 0.61,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Free+From+Chicken+Breast,+Boneless,+Skinless"
+        },
+        {
+            "title": "Thai Hom Mali Brown Jasmine Rice",
+            "subtitle": "Rooster",
+            "prices": "$5.99",
+            "unit_size": "2 kg",
+            "unit_price": "$0.30 / 100g",
+            "numeric_unit_price": 0.3,
+            "name": "Brown Rice",
+            "price": 0.3,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Thai+Hom+Mali+Brown+Jasmine+Rice"
+        },
+        {
+            "title": "Broccoli Crown",
+            "subtitle": "",
+            "prices": "$1.99",
+            "unit_size": "1 ea",
+            "unit_price": "$1.99 / each",
+            "numeric_unit_price": 1.99,
+            "name": "Broccoli",
+            "price": 1.99,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Broccoli+Crown"
+        },
+        {
+            "title": "Cello Spinach",
+            "subtitle": "",
+            "prices": "$2.99",
+            "unit_size": "283.5 g",
+            "unit_price": "$1.05 / 100g",
+            "numeric_unit_price": 1.05,
+            "name": "Spinach",
+            "price": 1.05,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Cello+Spinach"
+        },
+        {
+            "title": "Carrots, 3 lb Bag",
+            "subtitle": "Farmer's Market",
+            "prices": "$2.99",
+            "unit_size": "1.362 kg",
+            "unit_price": "$0.22 / 100g",
+            "numeric_unit_price": 0.22,
+            "name": "Carrots",
+            "price": 0.22,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Carrots,+3+lb+Bag"
+        },
+        {
+            "title": "Large Size Eggs",
+            "subtitle": "No Name",
+            "prices": "$9.65",
+            "unit_size": "30 ea",
+            "unit_price": "$0.32 / each",
+            "numeric_unit_price": 0.32,
+            "name": "Eggs",
+            "price": 0.32,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Large+Size+Eggs"
+        },
+        {
+            "title": "Krema Vanilla Yogurt 9%",
+            "subtitle": "Olympic",
+            "prices": "$4.79",
+            "unit_size": "650 g",
+            "unit_price": "$0.74 / 100g",
+            "numeric_unit_price": 0.74,
+            "name": "Greek Yogurt (non-fat)",
+            "price": 0.74,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Krema+Vanilla+Yogurt+9%"
+        },
+        {
+            "title": "Slivered Almonds",
+            "subtitle": "No Name",
+            "prices": "$2.00",
+            "unit_size": "100 g",
+            "unit_price": "$2.00 / 100g",
+            "numeric_unit_price": 2.0,
+            "name": "Almonds",
+            "price": 2.0,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Slivered+Almonds"
+        },
+        {
+            "title": "Organic Bananas, Bunch",
+            "subtitle": "PC Organics",
+            "prices": "$2.40",
+            "unit_size": "$2.18/1kg $0.99/1lb",
+            "unit_price": "$1.10 / each",
+            "numeric_unit_price": 1.1,
+            "name": "Bananas",
+            "price": 1.1,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Organic+Bananas,+Bunch"
+        },
+        {
+            "title": "Royal Gala Apples",
+            "subtitle": "",
+            "prices": "$1.15",
+            "unit_size": "$5.49/1kg $2.49/1lb",
+            "unit_price": "$0.21 / each",
+            "numeric_unit_price": 0.21,
+            "name": "Apples",
+            "price": 0.21,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Royal+Gala+Apples"
+        },
+        {
+            "title": "Margarine with Olive Oil",
+            "subtitle": "Becel",
+            "prices": "$6.99",
+            "unit_size": "850 g",
+            "unit_price": "$0.82 / 100g",
+            "numeric_unit_price": 0.82,
+            "name": "Olive Oil",
+            "price": 0.82,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Margarine+with+Olive+Oil"
+        },
+        {
+            "title": "100% Whole Wheat Bread",
+            "subtitle": "No Name",
+            "prices": "$1.99",
+            "unit_size": "675 g",
+            "unit_price": "$0.29 / 100g",
+            "numeric_unit_price": 0.29,
+            "name": "Whole Wheat Bread",
+            "price": 0.29,
+            "url": "https://www.nofrills.ca/en/search?search-bar=100%+Whole+Wheat+Bread"
+        },
+        {
+            "title": "Flaked Light Tuna, Skip Jack In Water",
+            "subtitle": "Clover Leaf",
+            "prices": "$1.50",
+            "unit_size": "170 g",
+            "unit_price": "$0.88 / 100g",
+            "numeric_unit_price": 0.88,
+            "name": "Canned Tuna (in water)",
+            "price": 0.88,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Flaked+Light+Tuna,+Skip+Jack+In+Water"
+        },
+        {
+            "title": "Quinoa",
+            "subtitle": "President's Choice",
+            "prices": "$13.99",
+            "unit_size": "1.8 kg",
+            "unit_price": "$0.78 / 100g",
+            "numeric_unit_price": 0.78,
+            "name": "Quinoa",
+            "price": 0.78,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Quinoa"
+        },
+        {
+            "title": "Naturally Imperfect Frozen Berry Blend",
+            "subtitle": "No Name",
+            "prices": "$14.00",
+            "unit_size": "2 kg",
+            "unit_price": "$0.70 / 100g",
+            "numeric_unit_price": 0.7,
+            "name": "Mixed Berries (frozen)",
+            "price": 0.7,
+            "url": "https://www.nofrills.ca/en/search?search-bar=Naturally+Imperfect+Frozen+Berry+Blend"
+        }
+    ]
+}

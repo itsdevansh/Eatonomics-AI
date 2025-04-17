@@ -1,0 +1,111 @@
+{
+  "items": [
+    {
+      "name": "Chicken Breast",
+      "quantity": "2 lbs",
+      "price": 0.61,
+      "total_price": 12.66,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Free+From+Chicken+Breast,+Boneless,+Skinless"
+    },
+    {
+      "name": "Brown Rice",
+      "quantity": "2 lbs",
+      "price": 0.3,
+      "total_price": 5.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Thai+Hom+Mali+Brown+Jasmine+Rice"
+    },
+    {
+      "name": "Broccoli",
+      "quantity": "1 lb",
+      "price": 1.99,
+      "total_price": 1.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Broccoli+Crown"
+    },
+    {
+      "name": "Spinach",
+      "quantity": "1 lb",
+      "price": 1.05,
+      "total_price": 2.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Cello+Spinach"
+    },
+    {
+      "name": "Carrots",
+      "quantity": "1 lb",
+      "price": 0.22,
+      "total_price": 2.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Carrots,+3+lb+Bag"
+    },
+    {
+      "name": "Eggs",
+      "quantity": "1 dozen",
+      "price": 0.32,
+      "total_price": 9.65,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Large+Size+Eggs"
+    },
+    {
+      "name": "Greek Yogurt (non-fat)",
+      "quantity": "32 oz",
+      "price": 0.74,
+      "total_price": 4.79,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Krema+Vanilla+Yogurt+9%"
+    },
+    {
+      "name": "Almonds",
+      "quantity": "8 oz",
+      "price": 2.0,
+      "total_price": 2.0,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Slivered+Almonds"
+    },
+    {
+      "name": "Bananas",
+      "quantity": "6 pieces",
+      "price": 1.1,
+      "total_price": 2.4,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Organic+Bananas,+Bunch"
+    },
+    {
+      "name": "Apples",
+      "quantity": "4 pieces",
+      "price": 0.21,
+      "total_price": 1.15,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Royal+Gala+Apples"
+    },
+    {
+      "name": "Olive Oil",
+      "quantity": "16 oz",
+      "price": 0.82,
+      "total_price": 6.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Margarine+with+Olive+Oil"
+    },
+    {
+      "name": "Whole Wheat Bread",
+      "quantity": "1 loaf",
+      "price": 0.29,
+      "total_price": 1.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=100%+Whole+Wheat+Bread"
+    },
+    {
+      "name": "Canned Tuna (in water)",
+      "quantity": "3 cans",
+      "price": 0.88,
+      "total_price": 1.5,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Flaked+Light+Tuna,+Skip+Jack+In+Water"
+    },
+    {
+      "name": "Quinoa",
+      "quantity": "1 lb",
+      "price": 0.78,
+      "total_price": 13.99,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Quinoa"
+    },
+    {
+      "name": "Mixed Berries (frozen)",
+      "quantity": "1 lb",
+      "price": 0.7,
+      "total_price": 14.0,
+      "url": "https://www.nofrills.ca/en/search?search-bar=Naturally+Imperfect+Frozen+Berry+Blend"
+    }
+  ],
+  "total_price": 85.08,
+  "budget": 98.5
+}
